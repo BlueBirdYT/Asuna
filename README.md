@@ -54,47 +54,7 @@
 * Music	Info	Usage
 * mhelp	sends the music help menu	mhelp
 # NSFW
-* Command	Usage
-* anal	anal
-* ass	ass
-* blowjob	blowjob
-* boobs	boobs
-* classic	classic
-* cum	cum
-* danbooru	danbooru <search query>
-* ero	ero
-* erofeet	erofeet
-* eroneko	eroneko
-* eroyuri	eroyuri
-* feet	feet
-* femdom	femdom
-* foxgirl	foxgirl
-* furry	furry
-* futa	futa
-* gelbooru	gelbooru <search query>
-* gif	gif
-* hentai	hentai
-* holoero	holoero
-* hololewd	hololewd
-* keta	keta
-* konachan	konachan <search query>
-* lesbian	lesbian
-* lewd	lewd
-* lizard	lizard
-* neko	neko
-* nekogif	nekogif
-* pussy	pussy
-* r34	r34 <search query>
-* real	real
-* safebooru	safebooru <search query>
-* solo	solo
-* tits	tits
-* trap	trap
-* wallpaper	wallpaper
-* xbooru	xbooru <search query>
-* yandre	yandre
-* yaoi	yaoi
-* yrui	yuri
+* Use -nhelp in a marked nsfw channel to know.
 # Features upcoming maybe
 * Economy
 # Thats all!
