@@ -1,3 +1,7 @@
+        <a href="https://discordbothub.com/bot?id=617062027135025163">
+        <img src="https://discordbothub.com/widget/bot?id=617062027135025163" alt="Asuna | Discord Bots Hub">
+        </a>
+      
 # Asuna Help information!
 # MODERATION
 * Moderation	Info	Usage
